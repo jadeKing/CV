@@ -1,10 +1,6 @@
 # Jade King
 
-Passionate techy interested in all things digital, especially if it's open source and cross platform.
-Have contributed to several commercial projects as a Full stack developer as well as working on side projects.
-
-
-Educated in programming and software development principles at university, then completed a full-time developer boot-camp where I learnt how to develop software collaboratively, in an agile work environment.
+Software developer with 3+ years maintaining several high traffic, multi-lingual,dictionary and translation websites. Position was mainly support developer responsible for fixing a wide range of issues including Ruby-on-Rails and Javascript issues. Experienced working in a team and working independently.
 
 I want to create great user experiences where technology and design is a help not a hindrance.
 
@@ -32,10 +28,12 @@ I also have experience in using Debian OS's such as Mint.
 ## Experience
 
 
-**Freelance** - (Oct 2014 to present)
-*Software developer*  
-- Currently working on the Oxford Dictionary websites
-- Other projects include sites for London Fashion Week and a Bitcoin dashboard
+**Entropy** - (Oct 2015 to June 2020)
+*Software developer - contracted*  
+- Support developer of a high traffic ruby on rails web application. Site is multilingual, involving lots of encoding into different languages and lots of work with an API.
+- Other responsibilities include monitoring and maintaining the live sites through heroku. Experienced using add-ons such as Rollbar and New Relic.
+- Worked on transitioning the sites from the oxforddictionaries.com to lexico.com. This involved lots of code change and separation of projects.
+- Worked on transitioning the sites from the oxforddictionaries.com to lexico.com. This involved lots of code change and separation of projects.
 
 **Zopa** - (July 2015 to Oct 2015)
 *Software developer - contracted*
